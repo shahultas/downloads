@@ -1,1 +1,3 @@
-v
+{
+  "rewrites": [{ "source": "/api/(.*)", "destination": "/api" }]
+}
